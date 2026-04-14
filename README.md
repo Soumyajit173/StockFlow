@@ -102,7 +102,7 @@ StockFlow/
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/StockFlow.git
+git clone https://github.com/Soumyajit173/StockFlow.git
 cd StockFlow
 mvn clean install
 mvn spring-boot:run
@@ -196,12 +196,11 @@ http://localhost:8080/swagger-ui/index.html
 ---
 
 ## 📸 Screenshots
-
+![Swagger UI 1](docs/images/swagger1.png)
+![Swagger UI 2](docs/images/swagger2.png)
 ```
 docs/images
 ```
-
-*(Add your UI or API screenshots here if available)*
 
 ---
 
