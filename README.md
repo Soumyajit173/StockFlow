@@ -1,4 +1,3 @@
-
 # 📧 📦 StockFlow — Inventory & Stock Management System API
 
 A **secure, scalable, and production-style backend API** for managing inventory, tracking stock levels, and handling product lifecycle operations.
@@ -22,6 +21,20 @@ flowchart LR
         D
     end
 ```
+
+---
+
+## 🚀 Live Demo
+
+### 🌐 API Base URL
+
+```
+https://stockflow-10z4.onrender.com
+```
+
+### 📘 Swagger UI
+
+👉 [https://stockflow-10z4.onrender.com/swagger-ui/index.html](https://stockflow-10z4.onrender.com/swagger-ui/index.html)
 
 ---
 
@@ -110,16 +123,6 @@ mvn spring-boot:run
 
 ---
 
-## 📘 API Documentation
-
-### 🔹 Swagger UI (if enabled)
-
-```
-http://localhost:8080/swagger-ui/index.html
-```
-
----
-
 ## 📡 API Endpoints
 
 ### 📦 Product APIs
@@ -196,11 +199,9 @@ http://localhost:8080/swagger-ui/index.html
 ---
 
 ## 📸 Screenshots
+
 ![Swagger UI 1](docs/images/swagger1.png)
 ![Swagger UI 2](docs/images/swagger2.png)
-```
-docs/images
-```
 
 ---
 
@@ -215,4 +216,3 @@ GitHub: [https://github.com/Soumyajit173](https://github.com/Soumyajit173)
 
 If you found this project useful, consider giving it a ⭐ on GitHub!
 
----
